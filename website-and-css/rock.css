@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(182, 172, 172);
+
+}
+
+div.all {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div.titlefont {
+    background-color: rgb(13, 146, 223);   
+    padding: 20px;
+}
+
+div.list {
+    padding: 10px;
+    background-color: rgb(42, 112, 124);
+}
